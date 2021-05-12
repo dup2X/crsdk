@@ -1,4 +1,4 @@
-package models
+package model
 
 import (
 	"bytes"
@@ -8,7 +8,7 @@ import (
 	"os/exec"
 	"time"
 
-	"github.com/dup2X/crsdk/idl"
+	"github.com/dup2X/crsdk/pkg/idl"
 	"github.com/dup2X/gopkg/logger"
 )
 
